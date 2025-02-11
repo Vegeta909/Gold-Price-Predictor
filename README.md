@@ -49,11 +49,12 @@ Improve model accuracy with feature engineering
 
 🤝 Contributing
 
-Contributions are welcome! Feel free to open an issue or submit a pull request.
+Contributions are welcome! Feel free to open an issue.
 
 📩 Contact
 
 For questions or feedback, feel free to reach out:
 
 Name: Arnav Singh Bisht
+
 Email: arnavsb909@gmail.com
